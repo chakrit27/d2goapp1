@@ -3,10 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	var i int
-	var s string
-	i = 10
-	s = "Thailand"
+
+	var i = 10
+	var s = "Thailand"
 	fmt.Println(i)
 	fmt.Println(s)
 }
